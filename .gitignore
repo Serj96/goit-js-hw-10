@@ -2,9 +2,9 @@
 .DS_Store
 .vscode/
 .idea/
-README.md
-README.pl.md
-README.uk.md
+README/
+README.pl/
+README.uk/
 
 # Logs
 logs
